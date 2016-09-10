@@ -1,0 +1,23 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "hangman game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melissag13/Week11-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melissag13/Week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/melissag13/Week11-Hangman#readme",
+  "dependencies": {
+    "hangman-engine": "^0.1.1",
+    "inquirer": "^1.1.3"
+  }
+}
